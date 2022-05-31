@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 Jiafu Zhang built the Text to Speech app as a Freemium app. This SERVICE is provided by Jiafu Zhang at no cost and is intended for use as is.
 
