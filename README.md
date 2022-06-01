@@ -8,7 +8,6 @@
   <br>
   <br>
 </div>
-
 ## Support
 
 For support, please send an email to zhangkuan523@icloud.com. I will get back to you as soon as possible!
